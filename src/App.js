@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css'; 
 
-const API_KEY = '44a219ad82033abb77cdcac6ae4817bd'; 
+const API_KEY = 'your_API_key'; 
 const cities = ['Москва', 'Санкт-Петербург', 'Нью-Йорк', 'Токио', "Анадырь"]; 
 
 const App = () => {
